@@ -121,7 +121,7 @@
 	},
 	{
 		"name": "eth_getUncleCountByBlockNumber",
-		"summary": "Returns the number of transactions in a block matching the given block number.",
+		"summary": "Returns the number of uncles in a block matching the given block number.",
 		"params": [
 			{
 				"name": "Block",
